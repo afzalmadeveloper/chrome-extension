@@ -8,3 +8,13 @@ textarea{
   font-family: sans-serif;
   text-decoration: none;
 }
+.green{
+  color: blue;
+  margin-top: 0px;
+  background-color: green;
+}
+.notepad{
+  height: 200px;
+  width: 300px;
+  display: block;
+}

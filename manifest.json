@@ -8,8 +8,9 @@
   },
   "background": {
     "scripts": [
-      "background.js"
+      "script.js"
     ],
+    
     "persistent": false
   },
   "commands": {
